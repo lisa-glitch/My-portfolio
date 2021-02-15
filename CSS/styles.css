@@ -22,3 +22,11 @@ p.projects {
   font-size: small;
   font-style: italic;
 }
+#best {color: blue;}
+.important {
+  color: brown;
+}
+.interest {
+  text-align: left;
+  color: red;
+}
